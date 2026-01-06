@@ -5,6 +5,7 @@ on:
     branches: [ main ]
     paths:
       - 'index.html'
+      - 'stage.html'
 
 jobs:
   deploy:
@@ -16,15 +17,15 @@ jobs:
       with:
         fetch-depth: 2
     
-    - name: Check if index.html changed
+    - name: Check if deploy files changed
       id: check_changes
       run: |
-        if git diff --name-only HEAD~1 HEAD | grep -q "^index\.html$"; then
+        if git diff --name-only HEAD~1 HEAD | grep -E '^(index|stage)\.html$'; then
           echo "changed=true" >> $GITHUB_OUTPUT
-          echo "index.html has changed"
+          echo "index.html or stage.html has changed"
         else
           echo "changed=false" >> $GITHUB_OUTPUT
-          echo "index.html has not changed"
+          echo "no deploy HTML changes detected"
         fi
     
     - name: Deploy via FTP
