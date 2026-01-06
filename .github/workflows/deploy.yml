@@ -38,6 +38,7 @@ jobs:
         server-dir: /
         include: |
           index.html
+          stage.html
         exclude: |
           **/.git*
           **/.git*/**
