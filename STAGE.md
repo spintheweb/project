@@ -24,7 +24,7 @@ Dotazione tecnica degli studenti
 
 ## Durata, periodo e modalità
 - Durata suggerita: 4–6 settimane.
-- Periodo di svolgimento: da concordare con l’istituto (in genere durante l’anno scolastico o in periodi dedicati a FSL/alternanza scuola-lavoro).
+- Periodo di svolgimento: da concordare con l’istituto (in genere durante l’anno scolastico o in periodi dedicati a FSL (Formazione Scuola-Lavoro)).
 - Modalità: ibrida — attività remote con sessioni sincrone di mentoring e, quando possibile, incontri in presenza per dimostrazioni e test.
 - Impegno previsto: 12–28 ore/settimana a seconda dell'intensità e del livello di coinvolgimento richiesto.
 
@@ -65,7 +65,7 @@ Esempi di task pratici:
 ## Aspetti logistici e normativi
 - Convenzione: lo stage richiede, se previsto dalla scuola, la sottoscrizione di una convenzione tra istituto e referente del progetto.
 - Assicurazione e privacy: la scuola resta responsabile per l'assicurazione degli studenti; saranno rispettate le normative sulla privacy e sul trattamento dei dati.
-- Inquadramento FSL/alternanza scuola-lavoro: l’eventuale riconoscimento nel monte ore FSL viene concordato con l’istituto.
+- Inquadramento FSL (Formazione Scuola-Lavoro): l’eventuale riconoscimento nel monte ore FSL viene concordato con l’istituto.
 
 ## Valutazione e riconoscimenti
 - Valutazione formativa basata su: partecipazione, qualità del codice/documentazione, capacità di lavoro in team e presentazione finale.
