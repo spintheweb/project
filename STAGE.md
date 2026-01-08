@@ -1,20 +1,22 @@
 # Proposta di Stage — Spin the Web
 
 ## Introduzione
-La presente proposta descrive un percorso di stage finalizzato non solo a insegnare lo sviluppo software, ma soprattutto a trasmettere la filosofia e la metodologia del progetto "Spin the Web" per la creazione di **Enterprise Web Portals**. Il percorso è rivolto a studenti di diversi indirizzi (scientifici, artistici, classici, linguistici) e mira a coinvolgerli attivamente nel ciclo di vita completo di un prodotto digitale, dall'ideazione al rilascio. I partecipanti contribuiranno al progetto open-source “Spin the Web”, integrando competenze tecniche (programmazione, architettura) con abilità comunicative (documentazione, presentazioni) e creative (UI/UX, design).
+Questa proposta delinea un percorso di stage per studenti delle scuole superiori, incentrato sulla metodologia "Spin the Web" per la creazione di **Enterprise Web Portals**. L'obiettivo è immergere i partecipanti nel ciclo di vita completo di un prodotto software, dall'ideazione al rilascio. Attraverso un approccio interdisciplinare, gli studenti di indirizzi scientifici, artistici e umanistici collaboreranno per integrare competenze tecniche, creative e comunicative, contribuendo attivamente sia al progetto open-source che alla sua applicazione in contesti reali.
+## Obiettivi Formativi
+Lo stage mira a fornire competenze trasversali, unendo teoria e pratica:
 
-## Obiettivi formativi
-- Applicare la metodologia "Spin the Web" per la progettazione e lo sviluppo di portali aziendali, comprendendo le fasi di analisi, design, sviluppo, test, deploy e manutenzione.
-- Far sperimentare ruoli aziendali reali: sviluppatore frontend, backend, devops, product owner, QA, documentazione.
-- Stimolare il lavoro di squadra, il problem solving e le buone pratiche (versionamento, code review, testing automatico).
-- Produrre output concreti: prototipi, funzionalità integrate nel repository, documentazione e presentazione finale.
-- Supportare, a medio termine, la creazione di una startup o di una struttura di servizi focalizzata sullo sviluppo di Enterprise Web Portals per aziende locali, coinvolgendo studenti in attività che mostrino anche la dimensione imprenditoriale e commerciale del software.
-- Far cogliere come funzionano, nella pratica, i diversi reparti di un’azienda (commerciale, tecnico, produttivo, magazzino, logistica, amministrazione, assistenza) e come un portale aziendale possa armonizzarne i flussi informativi e operativi.
+- **Comprensione del Ciclo di Vita del Software**: Introdurre gli studenti alle fasi complete di un progetto software: ideazione, progettazione, sviluppo, test, rilascio e manutenzione.
+- **Analisi dei Processi Aziendali**: Analizzare come operano i reparti di un'azienda (commerciale, logistica, produzione, amministrazione) e comprendere come un portale web possa integrare e ottimizzare i flussi di lavoro.
+- **Applicazione della Metodologia "Spin the Web"**: Utilizzare un approccio strutturato per progettare e sviluppare portali aziendali, coprendo tutte le fasi del processo.
+- **Sviluppo di Competenze Tecniche e Collaborative**: Stimolare il lavoro di squadra, il problem-solving e l'adozione di buone pratiche come il versionamento del codice (Git), la code review e il testing automatico.
+- **Simulazione di Ruoli Professionali**: Far sperimentare agli studenti ruoli reali del settore IT, come sviluppatore frontend/backend, QA tester e technical writer, in un contesto guidato.
+- **Creazione di Output Concreti**: Produrre risultati tangibili come prototipi funzionanti, nuove funzionalità integrate nel progetto, documentazione tecnica e una presentazione finale del lavoro svolto.
+- **Introduzione all'Imprenditorialità**: Offrire una visione sulla creazione di una startup o di un servizio professionale, mostrando come trasformare competenze tecniche in un'opportunità di business per il territorio.
 
 ## Destinatari e prerequisiti
-- Studenti del triennio dei licei (scientifici, artistici, classici e, ove interessati, linguistici), con percorsi adattati alle competenze specifiche di ciascun indirizzo.
-- Conoscenze consigliate: per i licei scientifici basi di programmazione (Python/JavaScript o simili); per i licei artistici nozioni di grafica e UI/UX; per i licei classici competenze di comunicazione e scrittura tecnica. Uso del computer e voglia di collaborare sono richiesti.
-- Non è richiesta esperienza avanzata: lo stage è strutturato per accogliere studenti con livelli diversi grazie a task differenziati e team misti interdisciplinari.
+- **Destinatari**: Studenti delle scuole superiori, in particolare del triennio, provenienti da qualsiasi indirizzo (scientifico, tecnico, artistico, umanistico).
+- **Prerequisiti**: Non è richiesta esperienza pregressa. Sono apprezzati un interesse di base per la tecnologia, la creatività o la comunicazione e una buona capacità di utilizzo del computer. La curiosità e la voglia di collaborare in un team sono le competenze più importanti.
+- **Approccio Inclusivo**: Il percorso è progettato per accogliere studenti con diversi livelli di competenza, grazie a task differenziati e alla formazione di team interdisciplinari.
 
 Dotazione tecnica degli studenti
 - Ogni partecipante dovrà essere dotato di un computer portatile adeguato allo svolgimento delle attività (navigazione web, sviluppo, collaborazione online) e con connessione internet.
@@ -22,7 +24,7 @@ Dotazione tecnica degli studenti
 
 ## Durata, periodo e modalità
 - Durata suggerita: 4–6 settimane.
-- Periodo di svolgimento: da concordare con l’istituto (in genere durante l’anno scolastico o in periodi dedicati a PCTO/alternanza scuola-lavoro).
+- Periodo di svolgimento: da concordare con l’istituto (in genere durante l’anno scolastico o in periodi dedicati a FSL/alternanza scuola-lavoro).
 - Modalità: ibrida — attività remote con sessioni sincrone di mentoring e, quando possibile, incontri in presenza per dimostrazioni e test.
 - Impegno previsto: 12–28 ore/settimana a seconda dell'intensità e del livello di coinvolgimento richiesto.
 
@@ -63,7 +65,7 @@ Esempi di task pratici:
 ## Aspetti logistici e normativi
 - Convenzione: lo stage richiede, se previsto dalla scuola, la sottoscrizione di una convenzione tra istituto e referente del progetto.
 - Assicurazione e privacy: la scuola resta responsabile per l'assicurazione degli studenti; saranno rispettate le normative sulla privacy e sul trattamento dei dati.
-- Inquadramento PCTO/alternanza scuola-lavoro: l’eventuale riconoscimento nel monte ore PCTO viene concordato con l’istituto.
+- Inquadramento FSL/alternanza scuola-lavoro: l’eventuale riconoscimento nel monte ore FSL viene concordato con l’istituto.
 
 ## Valutazione e riconoscimenti
 - Valutazione formativa basata su: partecipazione, qualità del codice/documentazione, capacità di lavoro in team e presentazione finale.
