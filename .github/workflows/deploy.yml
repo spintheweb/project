@@ -5,7 +5,6 @@ on:
     branches: [ main ]
     paths:
       - 'index.html'
-      - 'stage.html'
 
 jobs:
   deploy:
@@ -20,9 +19,9 @@ jobs:
     - name: Check if deploy files changed
       id: check_changes
       run: |
-        if git diff --name-only HEAD~1 HEAD | grep -E '^(index|stage)\.html$'; then
+        if git diff --name-only HEAD~1 HEAD | grep -E '^(index)\.html$'; then
           echo "changed=true" >> $GITHUB_OUTPUT
-          echo "index.html or stage.html has changed"
+          echo "index.html has changed"
         else
           echo "changed=false" >> $GITHUB_OUTPUT
           echo "no deploy HTML changes detected"
@@ -39,7 +38,6 @@ jobs:
         server-dir: /
         include: |
           index.html
-          stage.html
         exclude: |
           **/.git*
           **/.git*/**

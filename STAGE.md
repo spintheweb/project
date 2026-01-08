@@ -1,10 +1,10 @@
 # Proposta di Stage — Spin the Web
 
 ## Introduzione
-La presente proposta descrive un percorso di stage rivolto principalmente a studenti dei licei scientifici interessati allo sviluppo software, ma aperto anche ad altri indirizzi (artistici, classici, linguistici). Il progetto è pensato per far conoscere il ciclo completo di sviluppo di un prodotto digitale (dall’idea al rilascio) e per coinvolgere i ragazzi nello sviluppo reale del progetto open-source “Spin the Web”, integrando attività tecniche (programmazione, architettura, test) con aspetti comunicativi (documentazione, presentazioni, storytelling del progetto) e grafici (UI/UX, layout, materiali visivi).
+La presente proposta descrive un percorso di stage finalizzato non solo a insegnare lo sviluppo software, ma soprattutto a trasmettere la filosofia e la metodologia del progetto "Spin the Web" per la creazione di **Enterprise Web Portals**. Il percorso è rivolto a studenti di diversi indirizzi (scientifici, artistici, classici, linguistici) e mira a coinvolgerli attivamente nel ciclo di vita completo di un prodotto digitale, dall'ideazione al rilascio. I partecipanti contribuiranno al progetto open-source “Spin the Web”, integrando competenze tecniche (programmazione, architettura) con abilità comunicative (documentazione, presentazioni) e creative (UI/UX, design).
 
 ## Obiettivi formativi
-- Far comprendere le diverse fasi del software development lifecycle (analisi, design, sviluppo, test, deploy, manutenzione).
+- Applicare la metodologia "Spin the Web" per la progettazione e lo sviluppo di portali aziendali, comprendendo le fasi di analisi, design, sviluppo, test, deploy e manutenzione.
 - Far sperimentare ruoli aziendali reali: sviluppatore frontend, backend, devops, product owner, QA, documentazione.
 - Stimolare il lavoro di squadra, il problem solving e le buone pratiche (versionamento, code review, testing automatico).
 - Produrre output concreti: prototipi, funzionalità integrate nel repository, documentazione e presentazione finale.
@@ -21,7 +21,7 @@ Dotazione tecnica degli studenti
 - È possibile, previo accordo con scuola e famiglie, valutare l’acquisto di un portatile dedicato; ove disponibili convenzioni o partner tecnologici, potranno essere proposte soluzioni a costo agevolato/scontato.
 
 ## Durata, periodo e modalità
-- Durata suggerita: 2–6 settimane (opzioni modulari: mini-stage 2 settimane; stage esteso 4–6 settimane).
+- Durata suggerita: 4–6 settimane.
 - Periodo di svolgimento: da concordare con l’istituto (in genere durante l’anno scolastico o in periodi dedicati a PCTO/alternanza scuola-lavoro).
 - Modalità: ibrida — attività remote con sessioni sincrone di mentoring e, quando possibile, incontri in presenza per dimostrazioni e test.
 - Impegno previsto: 12–28 ore/settimana a seconda dell'intensità e del livello di coinvolgimento richiesto.
@@ -42,8 +42,8 @@ Focus su casi aziendali reali:
 - Progettazione di sezioni del portale che integrino informazioni e bisogni di più reparti, evidenziando come il software diventi strumento di coordinamento e comunicazione interna.
 
 Esempi di task pratici:
-- Implementare una pagina web o componente con HTML/CSS/JavaScript.
-- Aggiungere o migliorare un endpoint API (con test).
+- Implementare webbaselets.
+- Aggiungere o migliorare endpoints API (con test).
 - Scrivere test automatici o integrare strumenti di linting.
 - Creare documentazione utente o tutorial passo-passo.
 - Preparare una piccola pipeline di deploy o script di automazione.
@@ -69,23 +69,18 @@ Esempi di task pratici:
 - Valutazione formativa basata su: partecipazione, qualità del codice/documentazione, capacità di lavoro in team e presentazione finale.
 - Al termine lo studente riceve un attestato di partecipazione con il dettaglio delle attività svolte e delle competenze acquisite.
 
-## Obiettivo startup e collaborazioni territoriali
-Lo stage è pensato anche come trampolino per la creazione di una micro-startup o di un servizio locale specializzato in Enterprise Web Portals. Sono previste, dove possibile:
-- Collaborazioni con aziende locali che possano fornire casi reali di portali da sviluppare o migliorare.
+## Collaborazioni territoriali, startup e opportunità post-stage
+Lo stage è pensato anche come trampolino per la creazione di una micro-startup o di un servizio locale specializzato in Enterprise Web Portals e per offrire continuità ai ragazzi interessati, sia sul progetto open-source sia sul territorio.
+
+- Collaborazioni con aziende locali che possano fornire casi reali di portali da sviluppare o migliorare, anche come progetti pilota trasformabili in offerte commerciali gestite dal team/nuova impresa.
 - Sessioni su business model, go-to-market e processi di vendita tecnica, adattate per studenti interessati all'imprenditorialità.
-- Opportunità di progetti pilota che possano diventare offerte commerciali gestite dal team progetto/nuova impresa.
-
-## Proseguimento del percorso e opportunità post-stage
-Lo stage è pensato come trampolino: gli studenti interessati possono proseguire il coinvolgimento nel progetto e sul territorio in vari modi, consolidando competenze tecniche, creative e comunicative e partecipando ad attività con ricadute reali.
-
 - Contributori continuativi: partecipazione open-source (issue, pull request, documentazione) con riconoscimenti e badge nel repository.
 - Tirocini avanzati e stage estesi: possibilità di percorsi più lunghi all'interno del team o presso aziende partner.
-- Progetti pilota commerciali: sviluppo di Enterprise Web Portals per aziende locali come progetti reali, con possibilità di trasformarli in offerte commerciali gestite dal team/nuova impresa.
-- Incubazione e micro-startup: supporto (mentorship, business coaching, contatti) per studenti interessati ad avviare una startup basata su soluzioni Spin the Web.
+- **Incubatore e Avviamento Professionale**: creazione di una struttura di incubazione per facilitare l'ingresso nel lavoro autonomo. I partecipanti potranno creare una propria entità (es. partita IVA, studio professionale) e operare in un contesto collaborativo. L'incubatore offrirà servizi centralizzati (gestione contabile, condivisione di una base clienti, supporto amministrativo), riducendo le barriere all'ingresso e favorendo una crescita condivisa.
 - Portfolio e certificazione: rilascio di attestati, raccolta dei progetti nel portfolio e referenze utili per curriculum o candidature universitarie/professionali.
 - Rete alumni e mentoring: mantenimento di una community per scambio, aggiornamenti, mentoring e opportunità di lavoro.
 
-Modalità operative per il proseguimento:
+### Modalità operative
 - Definire accordi chiari per i progetti pilota con le aziende (obiettivi, proprietà intellettuale, eventuali compensi).
 - Predisporre piani di mentorship, milestone e criteri di valutazione per tirocini avanzati.
 - Favorire team interdisciplinari (studenti scientifici, artistici, classici) per coprire tutti gli aspetti di un portale: tecnologia, grafica e comunicazione.
@@ -105,11 +100,9 @@ Modalità operative per il proseguimento:
 ## Come candidarsi / Contatti
 Per proporre lo stage presso il vostro istituto, richiedere la convenzione o concordare un programma personalizzato, è possibile contattare:
 
-- Referente progetto: Spin the Web Team
-- Email: info@spintheweb.org (sostituire con contatto reale)
+- Email: info@spintheweb.org
 - Repository e informazioni: https://github.com/spintheweb
 
 Nella richiesta è utile indicare: nome della scuola, nominativo e contatti del referente, durata desiderata, numero e livello degli studenti coinvolti, eventuali esigenze particolari.
 
 Gli stessi contatti possono essere utilizzati per discutere opportunità post-stage, progetti pilota con aziende del territorio e percorsi di prosecuzione. Su richiesta, il team Spin the Web può predisporre un modello di mail di presentazione e una breve brochure riassuntiva da condividere con docenti, famiglie e aziende locali.
-
