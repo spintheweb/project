@@ -31,14 +31,14 @@ Nota sulla tempistica: la piattaforma Spin the Web richiede ancora lavoro di svi
 	- Pacchetti verticali per settore (es. portale pazienti, portale clienti bancari, portale studenti).
 
 ### Sviluppo della piattaforma e Community
-+- **Sviluppo core**: attività di sviluppo e manutenzione del progetto open-source Spin the Web, rilascio roadmap, gestione issue e quality assurance.
-+- **Ecosistema plugin**: sviluppo e vendita di plugin e connettori certificati che estendono la piattaforma.
-+- **Modello open-source**: bilanciare contributi community con servizi a pagamento (supporto, feature su richiesta, SLA).
+- **Sviluppo core**: attività di sviluppo e manutenzione del progetto open-source Spin the Web, rilascio roadmap, gestione issue e quality assurance.
+- **Ecosistema plugin**: sviluppo e vendita di plugin e connettori certificati che estendono la piattaforma.
+- **Modello open-source**: bilanciare contributi community con servizi a pagamento (supporto, feature su richiesta, SLA).
 
 ### Formazione e Certificazione
-+- **Corsi e workshop**: formazione tecnica per sviluppatori, amministratori e power users (on-site e online).
-+- **Programma di certificazione**: percorsi di certificazione per sviluppatori e system integrator.
-+- **Revenue**: corsi a pagamento, percorsi certificati e training corporate.
+- **Corsi e workshop**: formazione tecnica per sviluppatori, amministratori e power users (on-site e online).
+- **Programma di certificazione**: percorsi di certificazione per sviluppatori e system integrator.
+- **Revenue**: corsi a pagamento, percorsi certificati e training corporate.
 
 ## 4. Value Proposition
 - Riduzione del time-to-market: riuso di componenti e template.
