@@ -12,7 +12,7 @@ This document outlines the strategic direction of the Spin the Web Project, incl
 ## Book: Weaving Digital Portals
 
 - Complete Part I: Philosophy and historical context
-- Draft Part II: WBDL syntax and semantics
+- Draft Part II: WBOL syntax and semantics
 - Expand Part III: Web Spinner implementation and examples
 - Add Part IV: Studio tooling and contributor workflows
 - Publish first versioned PDF release

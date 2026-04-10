@@ -19,19 +19,19 @@ Thank you for your interest in contributing! We welcome contributions from every
 
 Spin the Web thrives on the creativity and expertise of contributors from many backgrounds. 
 
-### WBDL Schema
+### WBOL Schema
 
-WBDL (Webbase Description Language) is the heart of Spin the Web, much like HTML is for the traditional web. WBDL is designed to evolve, allowing deeper, more articulated, and precise ways of describing new behaviors and web experiences. Contributors can help shape the future of WBDL by proposing new schema elements, refining existing ones, or suggesting improvements for clarity and expressiveness. If you have ideas for new features, want to address limitations, or are interested in standards development, your input is highly valued. By contributing to the WBDL schema, you help ensure that Spin the Web remains flexible, powerful, and relevant as the web itself evolves.
+WBOL (Webbase Ontology Language) is the heart of Spin the Web, much like HTML is for the traditional web. WBOL is designed to evolve, allowing deeper, more articulated, and precise ways of describing new behaviors and web experiences. Contributors can help shape the future of WBOL by proposing new schema elements, refining existing ones, or suggesting improvements for clarity and expressiveness. If you have ideas for new features, want to address limitations, or are interested in standards development, your input is highly valued. By contributing to the WBOL schema, you help ensure that Spin the Web remains flexible, powerful, and relevant as the web itself evolves.
 
 ### Webspinner Architecture
 
-A webspinner is like a server-side web browser: it interprets WBDL (Webbase Description Language) in much the same way a browser interprets HTML. The Spin the Web project has selected [Deno](https://deno.com/) as its primary development environment, but webspinners can be implemented in any language. Webspinners are responsible for handling routing, authorizing users, rendering content, and executing dynamic behaviors as described by WBDL. This architecture enables flexible, secure, and scalable delivery of web portals, making it possible to build rich, data-driven experiences on the server side and deliver them to any client.
+A webspinner is like a server-side web browser: it interprets WBOL (Webbase Ontology Language) in much the same way a browser interprets HTML. The Spin the Web project has selected [Deno](https://deno.com/) as its primary development environment, but webspinners can be implemented in any language. Webspinners are responsible for handling routing, authorizing users, rendering content, and executing dynamic behaviors as described by WBOL. This architecture enables flexible, secure, and scalable delivery of web portals, making it possible to build rich, data-driven experiences on the server side and deliver them to any client.
 
 If you are interested in server architecture, runtime environments, or building the next generation of web infrastructure, your expertise can help shape the evolution of webspinners and the broader Spin the Web ecosystem.
 
 ### Spin the Web Studio
 
-Spin the Web Studio is a webbaselet designed to allow users to modify webbases directly through an interactive interface. Defined in WBDL and powered by the webspinner, the Studio provides tools for editing, configuring, and managing the structure and content of webbases in real time. This enables both technical and non-technical users to collaboratively build and refine web portals without needing to write code manually.
+Spin the Web Studio is a webbaselet designed to allow users to modify webbases directly through an interactive interface. Defined in WBOL and powered by the webspinner, the Studio provides tools for editing, configuring, and managing the structure and content of webbases in real time. This enables both technical and non-technical users to collaboratively build and refine web portals without needing to write code manually.
 
 If you are interested in building intuitive editing tools, real-time collaboration features, or enhancing the user experience for web portal creators, contributing to Spin the Web Studio is a great way to make an impact.
 
@@ -45,7 +45,7 @@ If you are passionate about UI/UX, your skills are especially valuable. In our p
 
 ### Communication
 
-Spin the Web is an open initiative to redefine how we describe, implement, and deliver web portals. It addresses the complexity and fragmentation of current web development by introducing a new standard—WBDL (Webbase Description Language)—that enables creators to describe entire web portals in a clear, modular, and collaborative way. By abstracting content, data, and presentation, Spin the Web empowers both technical and non-technical contributors to participate in building rich web experiences.
+Spin the Web is an open initiative to redefine how we describe, implement, and deliver web portals. It addresses the complexity and fragmentation of current web development by introducing a new standard—WBOL (Webbase Ontology Language)—that enables creators to describe entire web portals in a clear, modular, and collaborative way. By abstracting content, data, and presentation, Spin the Web empowers both technical and non-technical contributors to participate in building rich web experiences.
 
 If you are passionate about communicating ideas, sharing project updates, or engaging with the broader community, your skills are essential. You can help by writing blog posts, sharing news on social media, participating in discussions, or answering questions. Your contributions will help make Spin the Web visible, approachable, and impactful for everyone.
 

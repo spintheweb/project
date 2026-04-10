@@ -12,11 +12,11 @@ To promote digital transformation, open standards, and social impact through ope
 
 ### Integration Principle
 
-Spin the Web promotes a composition-first architecture: applications expose REST backends and are presented in portals via WBDL-defined webbaselets, enabling a consistent and accessible user experience across systems. This principle is inclusive of both open and paid software. Participation does not require relinquishing licensing models; REST interactions can be monitored and reported using transparent, privacy-respecting telemetry to support usage insights, accountability, and potential sponsorship.
+Spin the Web promotes a composition-first architecture: applications expose REST backends and are presented in portals via WBOL-defined webbaselets, enabling a consistent and accessible user experience across systems. This principle is inclusive of both open and paid software. Participation does not require relinquishing licensing models; REST interactions can be monitored and reported using transparent, privacy-respecting telemetry to support usage insights, accountability, and potential sponsorship.
 
 ### AI-Assisted Development
 
-WBDL is a formal, machine-readable description of portals. We embrace AI-assisted development to accelerate quality and delivery while preserving transparency, privacy, and accessibility. Tools and agents may use WBDL and standardized REST backends to scaffold webbaselets, validate configurations, propose UX variants, generate tests/docs, and help refactor safely. Both open and paid software are welcome; REST interactions can be monitored via transparent, privacy-respecting telemetry.
+WBOL is a formal, machine-readable description of portals. We embrace AI-assisted development to accelerate quality and delivery while preserving transparency, privacy, and accessibility. Tools and agents may use WBOL and standardized REST backends to scaffold webbaselets, validate configurations, propose UX variants, generate tests/docs, and help refactor safely. Both open and paid software are welcome; REST interactions can be monitored via transparent, privacy-respecting telemetry.
 
 - Human-in-the-loop: all AI-assisted changes must be reviewed by a human maintainer.
 - Licensing: AI-generated code and assets must be compatible with project licenses.
