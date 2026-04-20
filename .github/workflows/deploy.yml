@@ -26,6 +26,12 @@ jobs:
           echo "changed=false" >> $GITHUB_OUTPUT
           echo "no deploy HTML changes detected"
         fi
+
+    - name: Create schemas folder and download wbol.xsd
+      run: |
+        mkdir -p schemas
+        curl -L -o schemas/wbol.xsd https://raw.githubusercontent.com/spintheweb/schemas/refs/heads/main/wbol.xsd
+      shell: bash
     
     - name: Deploy via FTP
       if: steps.check_changes.outputs.changed == 'true'
