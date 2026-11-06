@@ -17,7 +17,7 @@ This document outlines the strategic direction of the Spin the Web Project, incl
 - Add Part IV: Studio tooling and contributor workflows
 - Publish first versioned PDF release
 
-## Framework: Spin the Web (Deno-based)
+## Framework: Spin the Web (Node.js-based)
 
 - Refactor core modules for clarity and extensibility
 - Document runtime behavior and spinner lifecycle

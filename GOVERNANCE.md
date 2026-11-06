@@ -37,7 +37,7 @@ This section provides concise, role-focused snapshots so key stakeholders can qu
 
 ### For the CTO
 
-Think of Spin the Web as the Kubernetes control plane for your front-end stack. Each webbaselet is a containerized microservice with its own interface, dependencies, and configuration. You declare conventions and policies in the Book—just like Helm charts and CRDs—and the Deno runtime acts as your API server and scheduler, instantiating modules on demand, enforcing role- and context-based rules, and ensuring zero-downtime updates.
+Think of Spin the Web as the Kubernetes control plane for your front-end stack. Each webbaselet is a containerized microservice with its own interface, dependencies, and configuration. You declare conventions and policies in the Book—just like Helm charts and CRDs—and the Node.js Webspinner runtime acts as your API server and scheduler, instantiating modules on demand, enforcing role- and context-based rules, and ensuring zero-downtime updates.
 
 Immediate wins:
 - Continuous delivery of UI components with built-in version control

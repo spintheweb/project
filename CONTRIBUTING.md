@@ -25,7 +25,7 @@ WBOL (Webbase Ontology Language) is the heart of Spin the Web, much like HTML is
 
 ### Webspinner Architecture
 
-A webspinner is like a server-side web browser: it interprets WBOL (Webbase Ontology Language) in much the same way a browser interprets HTML. The Spin the Web project has selected [Deno](https://deno.com/) as its primary development environment, but webspinners can be implemented in any language. Webspinners are responsible for handling routing, authorizing users, rendering content, and executing dynamic behaviors as described by WBOL. This architecture enables flexible, secure, and scalable delivery of web portals, making it possible to build rich, data-driven experiences on the server side and deliver them to any client.
+A webspinner is like a server-side web browser: it interprets WBOL (Webbase Ontology Language) in much the same way a browser interprets HTML. The Spin the Web project's Webspinner implementation uses Node.js, but webspinners can be implemented in any language. Webspinners are responsible for handling routing, authorizing users, rendering content, and executing dynamic behaviors as described by WBOL. This architecture enables flexible, secure, and scalable delivery of web portals, making it possible to build rich, data-driven experiences on the server side and deliver them to any client.
 
 If you are interested in server architecture, runtime environments, or building the next generation of web infrastructure, your expertise can help shape the evolution of webspinners and the broader Spin the Web ecosystem.
 
@@ -72,4 +72,3 @@ If you have ideas, spot bugs, or want to improve documentation or community reso
 
 ## Code of Conduct
 All contributors must follow our [Code of Conduct](CODE_OF_CONDUCT.md).
-
