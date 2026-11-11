@@ -41,7 +41,7 @@ Storytelling and animation are powerful ways to communicate what Spin the Web do
 
 ### UI/UX
 
-If you are passionate about UI/UX, your skills are especially valuable. In our project, a “content” is a dynamic data unit that communicates with a datasource, receives a JSON response, and renders in a specific way—such as a table, list, Gantt chart, plot, tree, or graph. UI/UX contributors help design and prototype adaptable, accessible, and visually engaging components for these data types. Your work ensures that users can interact with complex, dynamic data in intuitive and meaningful ways. We encourage you to bring new ideas for visualizations, improve user flows, and test usability with real data and users. Your contributions will directly shape how people experience and understand the web through Spin the Web.
+If you are passionate about UI/UX, your skills are especially valuable. In our project, a “content” is a dynamic data unit that communicates with a connector, receives a JSON response, and renders in a specific way—such as a table, list, Gantt chart, plot, tree, or graph. UI/UX contributors help design and prototype adaptable, accessible, and visually engaging components for these data types. Your work ensures that users can interact with complex, dynamic data in intuitive and meaningful ways. We encourage you to bring new ideas for visualizations, improve user flows, and test usability with real data and users. Your contributions will directly shape how people experience and understand the web through Spin the Web.
 
 ### Communication
 
@@ -58,7 +58,7 @@ One of the project’s core goals is to make the web more accessible—not just 
 A web portal is a unified, interactive gateway to information, services, and resources—often aggregating content from multiple sources and presenting it in a cohesive, user-friendly interface. Unlike a single-purpose website, a web portal brings together diverse data, tools, and user experiences under one roof, enabling users to access, manage, and interact with a wide range of content and functionality.
 
 The fundamental parts of a web portal typically include:
-- **Content units**: Dynamic modules that fetch and display data from various datasources, such as tables, lists, charts, or custom visualizations.
+- **Content units**: Dynamic modules that fetch and display data from various connectors, such as tables, lists, charts, or custom visualizations.
 - **Navigation**: Menus, links, and structures that help users move between different sections and features.
 - **User management**: Authentication, authorization, and personalization features that tailor the experience to each user.
 - **Integration points**: Connectors to external systems, APIs, or services that enrich the portal’s capabilities.
