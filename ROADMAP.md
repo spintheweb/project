@@ -37,13 +37,4 @@ This document outlines the strategic direction of the Spin the Web Project, incl
 - Host first contributor onboarding session
 - Translate key materials into Italian and English
 
-## Timeline
-
-| Quarter | Milestone |
-|---------|-----------|
-| Q4 2025 | Book Part I complete, framework v0.1 tagged |
-| Q1 2026 | Governance finalized, English summary published |
-| Q2 2026 | Website launch, contributor onboarding begins |
-| Q3 2026 | Community event planning |
-
 This roadmap is a living document and will be updated as milestones are reached and priorities evolve.
